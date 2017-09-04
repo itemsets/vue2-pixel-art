@@ -10,7 +10,8 @@
 
 # vue2-pixel-art
 
-Quick Introduction to Vue.js — Super Mario Pixel Art
+[Quick Introduction to Vue.js — Super Mario Pixel Art](https://medium.com/nepfin-engineering/quick-introduction-to-vue-js-super-mario-pixel-art-5ad01440663)  
+中文翻译：[Vue.js快速介绍-超级马里奥像素艺术](https://segmentfault.com/a/1190000011006666)
 
 > A Vue.js project
 
